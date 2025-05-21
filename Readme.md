@@ -13,4 +13,4 @@ lorems ipsum
 ### Third section 
 
 
-[Contact](mailto:test@test.com)
+[Contact](mailto:email@domain.com?subject=Your%20Subject&body=Body%20text)
