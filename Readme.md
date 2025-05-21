@@ -13,3 +13,4 @@ lorems ipsum
 ### Third section 
 
 
+[Contact](mailto:test@test.com)
